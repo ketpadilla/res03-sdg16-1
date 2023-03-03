@@ -1,0 +1,23 @@
+[
+    {
+    "id" : 1,
+    "user": "makati",
+    "zip": "1558",
+    "city": "Makati City",
+    "province": "National Capital Region"
+    },
+    {
+    "id": 2,
+    "user": "manila",
+    "zip": "1032",
+    "city": "Manila City",
+    "province": "National Capital Region"
+    },
+    {
+    "id": 3,
+    "user": "meyc",
+    "zip": "3020",
+    "city": "Meycauayan city",
+    "province": "Bulacan"
+    }
+]
